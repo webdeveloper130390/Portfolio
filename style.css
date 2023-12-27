@@ -1,0 +1,45 @@
+.logo{
+    margin-top: 72px;
+    margin-left: 272px;
+}
+.list{
+    list-style-type: none;
+}
+.list__header{
+    display: flex;
+    margin-right: 8px;
+    margin-top: 65px;
+    margin-left: 993px;
+    color: black;
+    justify-content: ;
+}
+.inet{
+    margin-top: 10px;   
+}
+.inet2{
+    margin-top: 10px;
+}
+.cat3{
+    margin-top: 10px;   
+}
+.wrapper{
+    width: 1920px;
+    height: 313px;
+    background: linear-gradient(#1D1D1D, #1D1D1D, #1D1D1D);
+    margin-top: 790px;
+}
+.title__f{
+    width: 363px;
+    height: 63px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 5.561px;    
+    margin-top: 54px;
+    margin-left: 102px;
+
+}
